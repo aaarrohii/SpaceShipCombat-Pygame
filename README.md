@@ -1,2 +1,2 @@
 # SpaceShipCombat-Pygame
-SpaceShip Combat is a 2D arcade game developed in Python using the Pygame library. It features object-oriented architecture, sprite-based graphics, physics simulation for bullets, and intuitive keyboard controls.This cross-platform game is optimized for smooth performance and rigorously tested for bug-free gameplay
+SpaceShip Combat: A Python arcade game powered by Pygame. Enjoy 2D space battles with smooth performance and bug-free gameplay. Intuitive controls, sprite graphics, and realistic bullet physics make for an engaging experience on any platform using pygame library.
